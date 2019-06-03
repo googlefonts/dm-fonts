@@ -1,5 +1,5 @@
 {
-.appVersion = "1224";
+.appVersion = "1160";
 DisplayStrings = (
 "É"
 );
@@ -150,7 +150,7 @@ value = (
 );
 }
 );
-date = "2019-04-05 16:29:47 +0000";
+date = "2019-06-03 20:57:19 +0000";
 designer = "Frank Grießhammer / Modifications: Colophon Foundry";
 designerURL = "http://www.adobe.com/type";
 familyName = "DeepMind Serif";
@@ -196146,9 +196146,8 @@ instanceInterpolations = {
 "DA153D23-B6EC-4FB1-AB4F-F4FB8639895B" = 0.56171;
 };
 isItalic = 1;
-linkStyle = Display;
-name = "Display Italic";
-weightClass = UltraBold;
+linkStyle = Regular;
+name = Italic;
 },
 {
 interpolationCustom = 100;
@@ -196160,8 +196159,8 @@ instanceInterpolations = {
 "DA153D23-B6EC-4FB1-AB4F-F4FB8639895B" = 0.35388;
 master01 = 0.14546;
 };
+isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
