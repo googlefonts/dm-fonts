@@ -196138,6 +196138,12 @@ name = Headline;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "DeepMind Serif Display";
+}
+);
 interpolationCustom = 100;
 interpolationWeight = 723;
 interpolationWidth = 200;
@@ -196150,6 +196156,12 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+customParameters = (
+{
+name = familyName;
+value = "DeepMind Serif Text";
+}
+);
 interpolationCustom = 100;
 interpolationWeight = 683;
 interpolationWidth = 171;
@@ -196159,10 +196171,8 @@ instanceInterpolations = {
 "DA153D23-B6EC-4FB1-AB4F-F4FB8639895B" = 0.35388;
 master01 = 0.14546;
 };
-isBold = 1;
 isItalic = 1;
-name = "Bold Italic";
-weightClass = Bold;
+name = Italic;
 }
 );
 kerning = {
