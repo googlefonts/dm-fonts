@@ -1,20 +1,15 @@
-# DeepMind
+# DeepMind Fonts
 
-Repository for the DeepMind suite of fonts. 
+This repository contains for DeepMind suite of fonts, Sans, Serif Text and Serif Display.
 
-## Serif
+The [Serif](Serif) families are derived from [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro).
 
-[Serif](Serif) font based off of Source Serif Pro.
+The [Sans](Sans) family is derived from [Poppins](https://github.com/itfoundry/Poppins).
 
-## Sans
+The type design and font development was commissioned from [Colophon Foundry](https://www.colophon-foundry.org), with Creative Direction from [MultiAdaptor](https://multiadaptor.com) and the DeepMind team.
 
-[Sans](Sans) font based off of Poppins.
+These fonts are not officially supported Google products.
 
-## Authors
+## License
 
-* Font development & modifications: [Colophon Foundry](https://www.colophon-foundry.org)
-* Creative Direction: [MultiAdaptor](https://multiadaptor.com/)
-
-## Last Update
-
-* 20/05/2019
+All fonts are licensed under the [SIL Open Font License](https://scripts.sil.org/ofl).
