@@ -1,8 +1,5 @@
 {
-.appVersion = "1230";
-DisplayStrings = (
-"É"
-);
+.appVersion = "1181";
 copyright = "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.";
 customParameters = (
 {
@@ -7344,7 +7341,7 @@ unicode = 1E44;
 {
 color = 4;
 glyphname = a;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-06-06 20:59:30 +0000";
 layers = (
 {
 anchors = (
@@ -7441,7 +7438,7 @@ position = "{255, -22}";
 },
 {
 name = ogonek;
-position = "{437, 0}";
+position = "{434, 0}";
 }
 );
 layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
@@ -7741,7 +7738,7 @@ unicode = 0101;
 {
 color = 4;
 glyphname = aogonek;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-06-06 20:59:30 +0000";
 layers = (
 {
 anchors = (
@@ -7776,7 +7773,7 @@ name = a;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 457, 0}";
+transform = "{1, 0, 0, 1, 454, 0}";
 }
 );
 layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
@@ -29466,7 +29463,7 @@ unicode = 0021;
 {
 color = 4;
 glyphname = exclamdown;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-06-06 20:59:38 +0000";
 layers = (
 {
 associatedMasterId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
@@ -29481,14 +29478,45 @@ layerId = "70023048-75D4-4F59-8BF9-49EEC6A33CD1";
 width = 297.4731;
 },
 {
-components = (
+layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
+paths = (
 {
-alignment = -1;
-name = exclam;
-transform = "{-1, 0, 0, -1, 298, 483}";
+closed = 1;
+nodes = (
+"93 -195 OFFCURVE",
+"127 -173 OFFCURVE",
+"138 -116 CURVE SMOOTH",
+"146 -77 OFFCURVE",
+"151 1 OFFCURVE",
+"153 132 CURVE SMOOTH",
+"156 272 LINE",
+"131 272 LINE",
+"17 5 OFFCURVE",
+"-21 -79 OFFCURVE",
+"-21 -130 CURVE SMOOTH",
+"-21 -169 OFFCURVE",
+"2 -195 OFFCURVE",
+"49 -195 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"207 346 OFFCURVE",
+"246 383 OFFCURVE",
+"246 429 CURVE SMOOTH",
+"246 467 OFFCURVE",
+"217 497 OFFCURVE",
+"178 497 CURVE SMOOTH",
+"134 497 OFFCURVE",
+"94 461 OFFCURVE",
+"94 416 CURVE SMOOTH",
+"94 378 OFFCURVE",
+"122 346 OFFCURVE",
+"163 346 CURVE SMOOTH"
+);
 }
 );
-layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
 width = 297.4731;
 }
 );
@@ -29620,7 +29648,7 @@ unicode = 003F;
 {
 color = 4;
 glyphname = questiondown;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-06-06 20:41:52 +0000";
 layers = (
 {
 associatedMasterId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
@@ -29635,14 +29663,59 @@ layerId = "70023048-75D4-4F59-8BF9-49EEC6A33CD1";
 width = 456.71372;
 },
 {
-components = (
+layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
+paths = (
 {
-alignment = -1;
-name = question;
-transform = "{-1, 0, 0, -1, 457, 483}";
+closed = 1;
+nodes = (
+"269 -196 OFFCURVE",
+"354 -148 OFFCURVE",
+"354 -82 CURVE SMOOTH",
+"354 -48 OFFCURVE",
+"332 -25 OFFCURVE",
+"301 -25 CURVE SMOOTH",
+"263 -25 OFFCURVE",
+"245 -49 OFFCURVE",
+"237 -84 CURVE SMOOTH",
+"232 -101 LINE SMOOTH",
+"220 -145 OFFCURVE",
+"196 -169 OFFCURVE",
+"155 -169 CURVE SMOOTH",
+"114 -169 OFFCURVE",
+"83 -137 OFFCURVE",
+"83 -67 CURVE SMOOTH",
+"83 23 OFFCURVE",
+"163 88 OFFCURVE",
+"301 114 CURVE",
+"311 292 LINE",
+"283 292 LINE",
+"260 194 LINE",
+"90 164 OFFCURVE",
+"-34 93 OFFCURVE",
+"-34 -40 CURVE SMOOTH",
+"-34 -151 OFFCURVE",
+"46 -196 OFFCURVE",
+"164 -196 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"345 352 OFFCURVE",
+"383 388 OFFCURVE",
+"383 432 CURVE SMOOTH",
+"383 468 OFFCURVE",
+"356 497 OFFCURVE",
+"315 497 CURVE SMOOTH",
+"275 497 OFFCURVE",
+"237 463 OFFCURVE",
+"237 419 CURVE SMOOTH",
+"237 383 OFFCURVE",
+"264 352 OFFCURVE",
+"304 352 CURVE SMOOTH"
+);
 }
 );
-layerId = "04BF5C93-05E4-4DB8-B59C-EE59F3489DF8";
 width = 456.71372;
 }
 );
