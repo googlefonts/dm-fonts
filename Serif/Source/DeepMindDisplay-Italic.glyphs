@@ -1,5 +1,5 @@
 {
-.appVersion = "1181";
+.appVersion = "1230";
 copyright = "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.";
 customParameters = (
 {
@@ -78,7 +78,7 @@ value = "http://scripts.sil.org/OFL";
 date = "2019-06-03 20:57:19 +0000";
 designer = "Frank Grießhammer / Modifications: Colophon Foundry";
 designerURL = "http://www.adobe.com/type";
-familyName = "DeepMind Serif Display";
+familyName = "DM Serif Display";
 featurePrefixes = (
 {
 automatic = 1;
@@ -26490,5 +26490,5 @@ GSDimensionPlugin.Dimensions = {
 UFOFormat = 2;
 };
 versionMajor = 5;
-versionMinor = 3;
+versionMinor = 100;
 }
