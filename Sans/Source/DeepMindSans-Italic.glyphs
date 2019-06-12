@@ -53,7 +53,7 @@ value = (
 }
 );
 date = "2019-05-20 07:53:48 +0000";
-designer = "Jonny Pinhorn / Modifications: Colophon Foundry";
+designer = "Colophon Foundry, Jonny Pinhorn";
 designerURL = "https://www.indiantypefoundry.com";
 familyName = "DM Sans";
 featurePrefixes = (
