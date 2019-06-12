@@ -55,7 +55,7 @@ value = (
 date = "2019-05-20 07:53:48 +0000";
 designer = "Jonny Pinhorn / Modifications: Colophon Foundry";
 designerURL = "https://www.indiantypefoundry.com";
-familyName = "DeepMind Sans";
+familyName = "DM Sans";
 featurePrefixes = (
 {
 automatic = 1;
@@ -62013,5 +62013,5 @@ com.typesupply.AccentFactory.version = (
 );
 };
 versionMajor = 1;
-versionMinor = 2;
+versionMinor = 100;
 }

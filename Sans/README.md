@@ -1,6 +1,6 @@
-# DeepMind Sans
+# DM Sans
 
-DeepMind Sans is a six style type family based off of [Poppins](https://fonts.google.com/specimen/Poppins). 
+DM Sans is a six style type family based off of [Poppins](https://fonts.google.com/specimen/Poppins). 
 
 [Original Poppins — Source files](https://github.com/google/fonts/tree/master/ofl/poppins)
 
@@ -15,7 +15,7 @@ DeepMind Sans is a six style type family based off of [Poppins](https://fonts.go
 * Built using Glyphsapp `Version 2.6.1 (1224)`
 * Current Version `1.001` — 2019/05/20
 
-## DeepMind Sans Modification Notes
+## DM Sans Modification Notes
 
 * Design space has been altered with substantial decrease to the x-height.
 * A further amend to the previous weighting of Poppins to coincide with a smaller selection of styles and use cases.
