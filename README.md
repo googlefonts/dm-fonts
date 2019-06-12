@@ -1,6 +1,6 @@
-# DeepMind Fonts
+# DM Fonts
 
-This repository contains for DeepMind suite of fonts, Sans, Serif Text and Serif Display.
+This repository contains for DM suite of fonts: Sans, Serif Text and Serif Display.
 
 The [Serif](Serif) families are derived from [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro).
 
