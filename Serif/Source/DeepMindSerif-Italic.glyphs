@@ -1,5 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1265";
+DisplayStrings = (
+Kk
+);
 copyright = "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.";
 customParameters = (
 {
@@ -3064,7 +3067,7 @@ unicode = 004A;
 {
 color = 4;
 glyphname = K;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-10-15 13:49:11 +0000";
 layers = (
 {
 anchors = (
@@ -3169,9 +3172,9 @@ nodes = (
 "627 21 LINE",
 "618 24 LINE SMOOTH",
 "589 33 OFFCURVE",
-"569 50 OFFCURVE",
+"568 50 OFFCURVE",
 "551 77 CURVE SMOOTH",
-"348 397 LINE",
+"349 397 LINE",
 "553 581 LINE SMOOTH",
 "585 610 OFFCURVE",
 "611 624 OFFCURVE",
@@ -3184,7 +3187,7 @@ nodes = (
 "537 629 OFFCURVE",
 "539 610 OFFCURVE",
 "520 593 CURVE SMOOTH",
-"245 345 LINE",
+"246 345 LINE",
 "414 68 LINE SMOOTH",
 "426 48 OFFCURVE",
 "420 32 OFFCURVE",
@@ -10670,7 +10673,7 @@ unicode = 006A;
 {
 color = 4;
 glyphname = k;
-lastChange = "2019-06-06 17:04:15 +0000";
+lastChange = "2019-10-15 13:49:14 +0000";
 layers = (
 {
 anchors = (
@@ -10777,19 +10780,19 @@ nodes = (
 "465 17 LINE",
 "457 21 LINE SMOOTH",
 "439 30 OFFCURVE",
-"426 40 OFFCURVE",
+"427 40 OFFCURVE",
 "414 56 CURVE SMOOTH",
-"249 259 LINE",
+"250 259 LINE",
 "442 356 LINE SMOOTH",
-"483 375 OFFCURVE",
+"482 376 OFFCURVE",
 "512 396 OFFCURVE",
 "512 430 CURVE SMOOTH",
 "512 467 OFFCURVE",
 "485 488 OFFCURVE",
 "450 489 CURVE",
-"198 252 LINE",
+"199 252 LINE",
 "263 90 LINE SMOOTH",
-"274 57 OFFCURVE",
+"276 58 OFFCURVE",
 "292 18 OFFCURVE",
 "310 0 CURVE"
 );
@@ -45001,5 +45004,5 @@ GSDimensionPlugin.Dimensions = {
 UFOFormat = 2;
 };
 versionMajor = 5;
-versionMinor = 100;
+versionMinor = 200;
 }
