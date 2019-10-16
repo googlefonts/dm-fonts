@@ -1,5 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1265";
+DisplayStrings = (
+kK
+);
 copyright = "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.";
 customParameters = (
 {
@@ -1875,7 +1878,7 @@ unicode = 004A;
 {
 color = 4;
 glyphname = K;
-lastChange = "2019-06-06 16:52:29 +0000";
+lastChange = "2019-10-15 13:48:54 +0000";
 layers = (
 {
 anchors = (
@@ -1937,8 +1940,8 @@ nodes = (
 "591 34 OFFCURVE",
 "575 50 OFFCURVE",
 "554 80 CURVE SMOOTH",
-"318 415 LINE",
-"214 340 LINE",
+"319 415 LINE",
+"215 340 LINE",
 "406 75 LINE SMOOTH",
 "424 51 OFFCURVE",
 "424 30 OFFCURVE",
@@ -1962,8 +1965,8 @@ nodes = (
 "483 626 OFFCURVE",
 "479 608 OFFCURVE",
 "459 588 CURVE SMOOTH",
-"214 340 LINE",
-"244 326 LINE"
+"215 340 LINE",
+"245 326 LINE"
 );
 }
 );
@@ -9146,7 +9149,7 @@ unicode = 006A;
 {
 color = 4;
 glyphname = k;
-lastChange = "2019-06-06 16:52:29 +0000";
+lastChange = "2019-10-15 13:49:01 +0000";
 layers = (
 {
 anchors = (
@@ -9199,8 +9202,8 @@ nodes = (
 "520 32 OFFCURVE",
 "506 46 OFFCURVE",
 "485 74 CURVE SMOOTH",
-"310 312 LINE",
-"207 250 LINE",
+"311 312 LINE",
+"208 250 LINE",
 "389 0 LINE"
 );
 },
@@ -9219,8 +9222,8 @@ nodes = (
 "408 450 OFFCURVE",
 "402 429 OFFCURVE",
 "385 414 CURVE SMOOTH",
-"207 250 LINE",
-"232 231 LINE"
+"208 250 LINE",
+"233 231 LINE"
 );
 }
 );
@@ -70593,5 +70596,5 @@ zhedescender = uni0497;
 UFOFormat = 2;
 };
 versionMajor = 5;
-versionMinor = 100;
+versionMinor = 200;
 }

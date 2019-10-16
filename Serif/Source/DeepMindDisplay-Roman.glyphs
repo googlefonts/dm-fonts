@@ -1,5 +1,8 @@
 {
-.appVersion = "1230";
+.appVersion = "1268";
+DisplayStrings = (
+Kk
+);
 copyright = "Copyright 2014 - 2017 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. Copyright 2019 Google LLC.";
 customParameters = (
 {
@@ -1836,6 +1839,7 @@ unicode = 004A;
 {
 color = 4;
 glyphname = K;
+lastChange = "2019-10-15 13:49:33 +0000";
 layers = (
 {
 anchors = (
@@ -1897,8 +1901,8 @@ nodes = (
 "598 25 OFFCURVE",
 "584 42 OFFCURVE",
 "564 72 CURVE SMOOTH",
-"322 424 LINE",
-"220 339 LINE",
+"323 424 LINE",
+"221 339 LINE",
 "413 66 LINE SMOOTH",
 "430 42 OFFCURVE",
 "431 22 OFFCURVE",
@@ -1922,8 +1926,8 @@ nodes = (
 "498 634 OFFCURVE",
 "493 616 OFFCURVE",
 "474 597 CURVE SMOOTH",
-"220 339 LINE",
-"241 327 LINE"
+"221 339 LINE",
+"243 327 LINE"
 );
 }
 );
@@ -8906,6 +8910,7 @@ unicode = 006A;
 {
 color = 4;
 glyphname = k;
+lastChange = "2019-10-16 09:40:58 +0000";
 layers = (
 {
 anchors = (
@@ -8956,10 +8961,10 @@ nodes = (
 "568.997 10 LINE",
 "565 12 LINE",
 "535 23 OFFCURVE",
-"521 37 OFFCURVE",
+"520 36 OFFCURVE",
 "499 66 CURVE SMOOTH",
-"315 320 LINE",
-"214 250 LINE",
+"316 320 LINE",
+"215 250 LINE",
 "393 0 LINE"
 );
 },
@@ -8978,8 +8983,8 @@ nodes = (
 "425 458 OFFCURVE",
 "417 437 OFFCURVE",
 "400 421 CURVE SMOOTH",
-"214 250 LINE",
-"236 237 LINE"
+"215 250 LINE",
+"237 237 LINE"
 );
 }
 );
@@ -69122,5 +69127,5 @@ manufacturer = "Colophon Foundry";
 manufacturerURL = "http://www.colophon-foundry.org";
 unitsPerEm = 1000;
 versionMajor = 5;
-versionMinor = 100;
+versionMinor = 200;
 }

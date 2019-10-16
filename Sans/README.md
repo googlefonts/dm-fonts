@@ -12,8 +12,9 @@ DM Sans is a six style type family based off of [Poppins](https://fonts.google.c
 
 ## Build
 
-* Built using Glyphsapp `Version 2.6.1 (1224)`
-* Current Version `1.001` — 2019/05/20
+* Drawn Glyphsapp `Version 2.6.1 (1224)`
+* Build with fontmake `1.10.0`
+* Current Version `1.200` — 2019/10/15
 
 ## DM Sans Modification Notes
 
