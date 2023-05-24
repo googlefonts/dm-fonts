@@ -1,10 +1,18 @@
 # DM Fonts
 
 This repository contains for DM suite of fonts: Sans, Serif Text and Serif Display.
+# DM Serif
 
 The [Serif](Serif) families are derived from [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro).
 
+![Sans](documentation/image3.png)
+![Sans](documentation/image4.png)
+
+# DM Sans
 The [Sans](Sans) family is derived from [Poppins](https://github.com/itfoundry/Poppins).
+
+![Sans](documentation/image1.png)
+![Sans](documentation/image2.png)
 
 The type design and font development was commissioned from [Colophon Foundry](https://www.colophon-foundry.org), with Creative Direction from [MultiAdaptor](https://multiadaptor.com) and the DeepMind team.
 
