@@ -150464,6 +150464,7 @@ instanceInterpolations = {
 "A6F5E7A4-47EF-4F55-BF18-0ACACB57A720" = 0.10345;
 };
 isBold = 1;
+isItalic = 1;
 name = "Bold Italic";
 weightClass = 700;
 },
@@ -150504,14 +150505,14 @@ instanceInterpolations = {
 "1615C59E-33DE-4B88-B2CC-A48C7D56A125" = 0.25;
 "66953C5E-8AEB-4AF5-804F-512B0A9BA4E6" = 0.75;
 };
-name = "ExtraBlack Italic";
+name = Italic;
 properties = (
 {
 key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans";
+value = "DM Sans ExtraBlack";
 }
 );
 }
@@ -150662,6 +150663,7 @@ instanceInterpolations = {
 "A6F5E7A4-47EF-4F55-BF18-0ACACB57A720" = 0.41379;
 };
 isBold = 1;
+isItalic = 1;
 linkStyle = "DM Sans 9pt Regular";
 name = "Bold Italic";
 properties = (
@@ -150889,6 +150891,7 @@ instanceInterpolations = {
 "8231B9DE-059C-4C71-A8C4-ABDA89A7D05C" = 0.41379;
 };
 isBold = 1;
+isItalic = 1;
 linkStyle = "DM Sans 24pt Regular";
 name = "Bold Italic";
 properties = (
@@ -151116,6 +151119,7 @@ instanceInterpolations = {
 "F5F01D5B-AEA3-4AC3-B3D8-92550D1582D7" = 0.41379;
 };
 isBold = 1;
+isItalic = 1;
 linkStyle = "DM Sans 36pt Regular";
 name = "Bold Italic";
 properties = (
