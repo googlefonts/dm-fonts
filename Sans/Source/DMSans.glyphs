@@ -51,7 +51,7 @@ opsz = {
 9 = 0;
 12 = 75;
 24 = 100;
-36 = 200;
+40 = 200;
 };
 wght = {
 100 = 20;
@@ -1126,7 +1126,7 @@ pos = -220;
 over = -12;
 }
 );
-name = "36pt Thin";
+name = "40pt Thin";
 stemValues = (
 61,
 15,
@@ -1207,7 +1207,7 @@ pos = -220;
 over = -12;
 }
 );
-name = "36pt Light";
+name = "40pt Light";
 stemValues = (
 103,
 62,
@@ -1287,7 +1287,7 @@ pos = -220;
 over = -12;
 }
 );
-name = "36pt Regular";
+name = "40pt Regular";
 stemValues = (
 115,
 75,
@@ -1375,7 +1375,7 @@ pos = -220;
 over = -12;
 }
 );
-name = "36pt ExtraBlack";
+name = "40pt ExtraBlack";
 stemValues = (
 186,
 155,
@@ -153850,7 +153850,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153873,7 +153873,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153895,7 +153895,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153917,7 +153917,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153939,7 +153939,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153962,7 +153962,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -153987,7 +153987,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -154010,7 +154010,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -154033,7 +154033,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }
@@ -154055,7 +154055,7 @@ key = familyNames;
 values = (
 {
 language = dflt;
-value = "DM Sans 36pt";
+value = "DM Sans 40pt";
 }
 );
 }

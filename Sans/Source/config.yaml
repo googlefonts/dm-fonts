@@ -17,8 +17,8 @@
           value: 12
         - name: 24pt
           value: 24
-        - name: 36pt
-          value: 36
+        - name: 40pt
+          value: 40
       - name: Weight
         tag: wght
         values:
@@ -61,8 +61,8 @@
           value: 12
         - name: 24pt
           value: 24
-        - name: 36pt
-          value: 36
+        - name: 40pt
+          value: 40
       - name: Weight
         tag: wght
         values:
