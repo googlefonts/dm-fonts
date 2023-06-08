@@ -13,8 +13,8 @@
         values:
         - name: 9pt
           value: 9
-        - name: 12pt
-          value: 12
+        - name: 14pt
+          value: 14
         - name: 24pt
           value: 24
         - name: 40pt
@@ -57,8 +57,8 @@
         values:
         - name: 9pt
           value: 9
-        - name: 12pt
-          value: 12
+        - name: 14pt
+          value: 14
         - name: 24pt
           value: 24
         - name: 40pt

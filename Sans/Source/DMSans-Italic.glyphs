@@ -49,7 +49,7 @@ name = "Axis Mappings";
 value = {
 opsz = {
 9 = 0;
-12 = 75;
+14 = 75;
 24 = 100;
 40 = 200;
 };
