@@ -15,8 +15,12 @@
           value: 9
         - name: 14pt
           value: 14
+        - name: 18pt
+          value: 18
         - name: 24pt
           value: 24
+        - name: 36pt
+          value: 36
         - name: 40pt
           value: 40
       - name: Weight
@@ -59,8 +63,12 @@
           value: 9
         - name: 14pt
           value: 14
+        - name: 18pt
+          value: 18
         - name: 24pt
           value: 24
+        - name: 36pt
+          value: 36
         - name: 40pt
           value: 40
       - name: Weight

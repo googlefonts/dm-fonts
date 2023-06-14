@@ -1,5 +1,5 @@
 {
-.appVersion = "3192";
+.appVersion = "3199";
 .formatVersion = 3;
 axes = (
 {
@@ -19984,7 +19984,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 4;
 glyphname = Ograve;
 kernLeft = O;
 kernRight = O;
-lastChange = "2023-05-19 14:07:26 +0000";
+lastChange = "2023-05-19 14:03:26 +0000";
 layers = (
 {
 layerId = "EB62C368-BB48-47C0-A466-DA94204A0DE4";
@@ -30557,7 +30557,7 @@ unicode = 7808;
 },
 {
 glyphname = X;
-lastChange = "2023-05-19 14:07:26 +0000";
+lastChange = "2023-05-19 14:03:36 +0000";
 layers = (
 {
 layerId = "EB62C368-BB48-47C0-A466-DA94204A0DE4";
@@ -31581,7 +31581,7 @@ unicode = 374;
 glyphname = Ydieresis;
 kernLeft = Y;
 kernRight = Y;
-lastChange = "2023-05-19 14:07:26 +0000";
+lastChange = "2023-05-24 10:07:10 +0000";
 layers = (
 {
 layerId = "EB62C368-BB48-47C0-A466-DA94204A0DE4";
@@ -175279,5 +175279,5 @@ com.typesupply.AccentFactory.version = (
 );
 };
 versionMajor = 4;
-versionMinor = 3;
+versionMinor = 4;
 }

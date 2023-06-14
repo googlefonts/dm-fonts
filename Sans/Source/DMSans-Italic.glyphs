@@ -1,5 +1,5 @@
 {
-.appVersion = "3192";
+.appVersion = "3199";
 .formatVersion = 3;
 axes = (
 {
@@ -72,7 +72,7 @@ name = "Variable Font Origin";
 value = "A6F5E7A4-47EF-4F55-BF18-0ACACB57A720";
 }
 );
-date = "2023-05-04 08:42:08 +0000";
+date = "2023-05-04 08:42:24 +0000";
 familyName = "DM Sans";
 featurePrefixes = (
 {
@@ -29060,7 +29060,7 @@ type = fontInfo;
 glyphname = Uacute;
 kernLeft = U;
 kernRight = U;
-lastChange = "2023-05-24 10:05:10 +0000";
+lastChange = "2023-05-24 10:07:10 +0000";
 layers = (
 {
 layerId = "A390C1A2-E540-434D-BB9E-4BCEE875BA63";
@@ -39266,7 +39266,7 @@ unicode = 509;
 glyphname = b;
 kernLeft = l;
 kernRight = o;
-lastChange = "2023-05-19 14:03:36 +0000";
+lastChange = "2023-05-19 14:07:26 +0000";
 layers = (
 {
 layerId = "A390C1A2-E540-434D-BB9E-4BCEE875BA63";
@@ -77539,7 +77539,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 8;
 glyphname = gcommaaccent.ss03;
 kernLeft = g.ss03;
 kernRight = g.ss03;
-lastChange = "2023-05-19 14:03:36 +0000";
+lastChange = "2023-05-19 14:07:26 +0000";
 layers = (
 {
 layerId = "EB62C368-BB48-47C0-A466-DA94204A0DE4";
@@ -119012,7 +119012,7 @@ unicode = 8360;
 },
 {
 glyphname = rupeeIndian;
-lastChange = "2023-05-24 09:15:24 +0000";
+lastChange = "2023-05-19 14:07:26 +0000";
 layers = (
 {
 layerId = "A390C1A2-E540-434D-BB9E-4BCEE875BA63";
@@ -139336,7 +139336,7 @@ type = fontInfo;
 },
 {
 glyphname = acutecomb;
-lastChange = "2023-05-19 14:03:36 +0000";
+lastChange = "2023-05-19 14:07:26 +0000";
 layers = (
 {
 anchors = (
@@ -164620,5 +164620,5 @@ com.typesupply.AccentFactory.version = (
 );
 };
 versionMajor = 4;
-versionMinor = 3;
+versionMinor = 4;
 }
